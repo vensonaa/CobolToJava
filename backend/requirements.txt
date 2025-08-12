@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+websockets
+httpx
+python-multipart
+sqlalchemy
+aiosqlite
+langgraph
